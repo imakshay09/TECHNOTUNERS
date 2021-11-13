@@ -1,5 +1,6 @@
-# TECHNOTUNERS
-GET IN THE SHARP GAME..
+<p align="center">
+  <img src="https://github.com/divyanshojha99/TECHNOTUNERS/blob/main/ourlogo.PNG?raw=true" height="300"/>
+</p>
 
 🅿🆁🅾🅱🅻🅴🅼 🆂🆃🅰🆃🅴🅼🅴🅽🆃--
 Reduce the immense accidents on railways by sensing of railway tracks and also address the issues of sensor integration and cloud computing....
