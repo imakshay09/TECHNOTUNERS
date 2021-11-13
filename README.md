@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/divyanshojha99/TECHNOTUNERS/blob/main/ourlogo.PNG?raw=true" height="300"/>
+  <img src="https://github.com/divyanshojha99/TECHNOTUNERS/blob/main/ourlogo.PNG?raw=true" height="400"/>
 </p>
 
 🅿🆁🅾🅱🅻🅴🅼 🆂🆃🅰🆃🅴🅼🅴🅽🆃--
